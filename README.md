@@ -1,1 +1,2 @@
 "# sharathkumar-portfolio" 
+npm start
