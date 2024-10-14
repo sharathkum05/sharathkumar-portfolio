@@ -1,0 +1,2 @@
+npm start
+https://github.com/gitname/react-gh-pages - refer this website
